@@ -7,6 +7,7 @@ README.md
 
 Copy code
 npm install
+
 or
 
 Copy code
