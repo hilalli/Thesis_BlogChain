@@ -1,6 +1,6 @@
 README.md
 
-## This React application is a Gaming Subscription Platform system that interacts with the Solana blockchain using the Anchor framework.
+## This React application is a Platform system that interacts with the Solana blockchain using the Anchor framework.
 
 ## Installation
 1. To install the required dependencies, run the following command:
@@ -15,7 +15,7 @@ yarn install
 ## Components
 The main components of this application are:
 
-Dashboard: A component that handles the main functionality of the lib, such as connecting to the Phantom Wallet and creating game posts.
+Dashboard: A component that handles the main functionality of the lib, such as connecting to the Phantom Wallet and creating posts.
 BlogProvider and uselib: A context and custom hook for managing the libraries's context, such as user, relases, and various functions like initUser, createPost, and more.
 
 
@@ -41,6 +41,3 @@ This application uses the Anchor framework for interacting with the Solana block
 
 Pubkey
 The findProgramAddressSync and utf8 functions from the Anchor framework are used for generating program addresses and encoding/decoding data.
-
-## Contact
-For any questions or concerns, please contact the author of this README at nure234ttin@gmail.com.
