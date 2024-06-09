@@ -1,4 +1,5 @@
 README.md
+## BLOG-CHAIN PLATFORM
 
 ## This React application is a Platform system that interacts with the Solana blockchain using the Anchor framework.
 
